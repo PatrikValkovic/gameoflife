@@ -1,6 +1,6 @@
 #Game of Life in JavaScript
 
-Made by Patrik Valkovic
+Made by Patrik Valkovic  
 GNU Licence
 
 ## Rules
