@@ -1,6 +1,6 @@
 #Game of Life in JavaScript
 
-Made by Patrik Valkovic  
+Made by Patrik Valkovic
 GNU Licence
 
 ## Rules
@@ -11,3 +11,8 @@ GNU Licence
 * Each dead cell with exactly three neighbors becomes populated.
 
 Surface is stored in object - that mean that it is theoretically infinite.
+
+## Control
+`q` to stop updating surface
+`+` to zoom in
+`-` to zoom out
