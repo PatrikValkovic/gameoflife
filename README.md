@@ -1,6 +1,7 @@
 #Game of Life in JavaScript
 
-Made by Patrik Valkovic
+Made by Patrik Valkovic  
+
 GNU Licence
 
 ## Rules
@@ -16,3 +17,7 @@ Surface is stored in object - that mean that it is theoretically infinite.
 `q` to stop updating surface  
 `+` to zoom in  
 `-` to zoom out
+
+## Live 
+
+Live app is running on https://patrikvalkovic.github.io/GameOfLife/
